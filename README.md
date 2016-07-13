@@ -25,14 +25,14 @@ Hands-on practice with Git
 
 ---
 
-## [Segment 0 Markdown](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-1st_segment_git_with_jendiamond-md)
+## [Segment 0 Markdown](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#segment-0)
 
 + Create a Gist in Github called git_notes.md
 + Learn how to use Markdown
 
 ---
 
-## [Segment 1 Local Git & Basic Git Workflow](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-2nd_segment_git_with_jendiamond-md)
+## [Segment 1 Local Git & Basic Git Workflow](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-1st_segment_git_with_jendiamond-md)
 
 Your Git Workflow | :) 
 --------------- | ---------------
@@ -44,18 +44,16 @@ Your Git Workflow | :)
 
 ---
 
-## Segment 2 - Remote GitHub & GitHub
+## [Segment 2 Remote GitHub & GitHub](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-2nd_segment_git_with_jendiamond-md)
 
 ---
 
-## Segment 3 - Branching & Reset
+## [Segment 3 Branching & Reset](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-3rd_segment_git_with_jendiamond-md)
 
 ---
 
-## Segment 4 - Cloning
+## [Segment 4 Cloning](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-4th_segment_git_with_jendiamond-md)
 
 ---
 
-## Segment 5 - Test yourself
-=======
->>>>>>> 04edadd287f426733f171db815835ecfb2e1f282
+## [Segment 5 Test yourself](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-5th_segment_git_with_jendiamond-md)
