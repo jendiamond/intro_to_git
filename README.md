@@ -1,6 +1,6 @@
 # [Git with Jen Diamond](https://github.com/gitwithjendiamond)
 ## Introduction to Git and Github
-### The Notes / Gist: https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1
+### Notes / Gist: https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1
 ### Webpage: https://git-with-jendiamond.herokuapp.com/  
 ### GitHub Organization: https://github.com/jendiamond/intro_to_git_jendiamond
 ### MadPad: http://madpad.herokuapp.com/intro2git
@@ -57,3 +57,5 @@ Your Git Workflow | :)
 ---
 
 ## Segment 5 - Test yourself
+=======
+>>>>>>> 04edadd287f426733f171db815835ecfb2e1f282
