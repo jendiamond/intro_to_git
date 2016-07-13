@@ -1,7 +1,9 @@
-# Git with Jen Diamond
-## Introduction to Git and GitHub
-##### [Intro to Git and GitHub Website](https://git-with-jendiamond.herokuapp.com)
-##### [Intro to Git and GitHub Gist](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1)
+# [Git with Jen Diamond](https://github.com/gitwithjendiamond)
+## Introduction to Git and Github
+### The Notes / Gist: https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1
+### Webpage: https://git-with-jendiamond.herokuapp.com/  
+### GitHub Organization: https://github.com/jendiamond/intro_to_git_jendiamond
+### MadPad: http://madpad.herokuapp.com/intro2git
 
 ### Major Concepts
 Concepts and vocabulary you will need to know in order to begin working with Git. Specific concepts covered include the role of the "repo" as well as defining commits and creating branches and working with others.
@@ -21,9 +23,7 @@ Hands-on practice with Git
 + Learn a clean Git work flow to you can clarify your work process
 + Learn to how to write a great commit message and why
 
-
 ---
-
 
 ## [Segment 0 Markdown](https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1#file-1st_segment_git_with_jendiamond-md)
 
