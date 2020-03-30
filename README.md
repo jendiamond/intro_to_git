@@ -3,7 +3,6 @@
 ### Notes / Gist: https://gist.github.com/jendiamond/18d9c1e9e801d894777a5632394034c1
 ### Webpage: https://git-with-jendiamond.herokuapp.com/  
 ### GitHub Organization: https://github.com/jendiamond/intro_to_git_jendiamond
-### MadPad: http://madpad.herokuapp.com/intro2git
 
 ### Major Concepts
 Concepts and vocabulary you will need to know in order to begin working with Git. Specific concepts covered include the role of the "repo" as well as defining commits and creating branches and working with others.
